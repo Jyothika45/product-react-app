@@ -3,7 +3,7 @@ import NavBar from "./NavBar";
 
 const DeleteProduct = () => {
   return (
-    <div>
+    <div> 
        <NavBar/>    
 
 <div className="container">
